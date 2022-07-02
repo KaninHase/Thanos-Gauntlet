@@ -1,0 +1,22 @@
+body {
+  background-color: #000;
+  color: #b0c;
+  font-family: 'Bauhaus 93';
+}
+
+.container {
+  height: 50vh;
+  position: absolute;
+  top: 20%;
+  left: 67vh;
+
+}
+
+#snap {
+  height: 80px;
+  width: 80px;
+  background: 
+  url('https://www.google.com/logos/fnbx/thanos/thanos_snap.png') 0px 0px;
+  position: absolute;
+  left:  45%;
+}
